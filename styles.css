@@ -1,10 +1,12 @@
 img {
-    width: 200px;
+    width: 250px;
+    height: 250px;
 }
 
 body {
     text-align: center;
-    font-family: "papyrus";
-    background: green;
-    color: indigo;
+    font-family: "morton";
+    font-size: 60;
+    background-image: url("https://i.makeagif.com/media/11-08-2015/LQ9Xy0.gif");
+    color: chartreuse;
 }
